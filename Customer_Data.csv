@@ -1,4 +1,4 @@
-,CustomerID,Days_Since_Last_Purchase,Total_Transactions,Total_Products_Purchased,Total_Spend,Average_Transaction_Value,Unique_Products_Purchased,Average_Days_Between_Purchases,Day_Of_Week,Hour,Is_UK
+ind,CustomerID,Days_Since_Last_Purchase,Total_Transactions,Total_Products_Purchased,Total_Spend,Average_Transaction_Value,Unique_Products_Purchased,Average_Days_Between_Purchases,Day_Of_Week,Hour,Is_UK
 0,12346.0,325,2,0,0.0,0.0,1,0.0,1,10,1
 1,12347.0,2,7,2458,4310.0,615.7142857142857,103,2.016574585635359,1,14,0
 2,12348.0,75,4,2332,1437.24,359.31,21,10.884615384615385,3,19,0
